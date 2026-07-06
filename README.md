@@ -16,18 +16,18 @@
 - 🚀 Aiming to become an **AI Application Developer**
 - 🌱 Currently learning: *add what you're learning now*
 - 💬 Ask me about: **Python, SQL, Web Basics**
-- ⚡ Fun fact: *add one later*
+- ⚡ Fun fact: I built an AI that writes emails better than I do 😅
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.icons8.com/3d-fluency/94/html-5.png" width="60" alt="HTML5"/>
+  <img src="https://img.icons8.com/3d-fluency/94/css3.png" width="60" alt="CSS3"/>
+  <img src="https://img.icons8.com/3d-fluency/94/javascript.png" width="60" alt="JavaScript"/>
+  <img src="https://img.icons8.com/3d-fluency/94/python.png" width="60" alt="Python"/>
+  <img src="https://img.icons8.com/3d-fluency/94/sql.png" width="60" alt="SQL"/>
 </p>
 
 ---
