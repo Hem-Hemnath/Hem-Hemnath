@@ -50,16 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hem-Hemnath&theme=github_dark" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Hem-Hemnath&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hem-Hemnath&theme=github_dark" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hem-Hemnath&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hem-Hemnath&theme=github_dark" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=Hem-Hemnath&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
