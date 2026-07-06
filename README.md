@@ -22,12 +22,8 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.icons8.com/3d-fluency/94/html-5.png" width="60" alt="HTML5"/>
-  <img src="https://img.icons8.com/3d-fluency/94/css3.png" width="60" alt="CSS3"/>
-  <img src="https://img.icons8.com/3d-fluency/94/javascript.png" width="60" alt="JavaScript"/>
-  <img src="https://img.icons8.com/3d-fluency/94/python.png" width="60" alt="Python"/>
-  <img src="https://img.icons8.com/3d-fluency/94/sql.png" width="60" alt="SQL"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql&theme=dark" />
 </p>
 
 ---
