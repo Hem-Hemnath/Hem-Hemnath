@@ -59,40 +59,41 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hemnath R**, an **AI & Data Science student** focused on becoming an **AI Application Developer**.
+I'm **Hemnath R**, an **AI & Data Science student** focused on building practical
+and user-friendly AI applications.
 
-I enjoy transforming ideas into practical applications by combining **Artificial Intelligence, software development, and modern web technologies**.
+I enjoy turning ideas into working products by combining **AI, frontend
+development, backend APIs, and modern web technologies**.
 
-My goal is to build applications that are **useful, simple, intelligent, and production-ready**.
-
-### 🚀 What I Do
+### What I Do
 
 - 🤖 AI Application Development
-- 🧠 Artificial Intelligence & Data Science
-- ⚛️ React, TypeScript & JavaScript
-- 🐍 Python, Flask & FastAPI
-- 🔌 Gemini & AI API Integrations
-- 🌐 Full-Stack Application Development
-- ☁️ Cloud & Application Deployment
-- 🚀 Building practical AI-powered projects
+- 🌐 Frontend Development
+- 🐍 Python Development
+- 🔌 API & Backend Development
+- 🧠 AI / LLM Integration
+- 🚀 Building practical AI projects
 
-> **Build things. Learn things. Improve things. Ship things.**
 
-</td>
+## 🛠️ Tech Stack
 
-<td width="35%" align="center" valign="middle">
+### Languages
 
-### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,nodejs,tailwind,fastapi,flask,firebase,git,github&perline=4&theme=dark" width="100%" alt="Tech Stack">
+### Frameworks & Libraries
 
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,fastapi,nodejs" />
+</p>
 
-</tr>
-</table>
+### Tools & Technologies
 
-<br>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,mysql,vscode" />
+</p>
 ---
 
 ## 🚀 Featured Projects
