@@ -2,7 +2,7 @@
 
 <img
   align="right"
-  src="https://raw.githubusercontent.com/Hem-Hemnath/Hem-Hemnath/main/profile.gif"
+  src="https://raw.githubusercontent.com/Hem-Hemnath/Hem-Hemnath/main/me-white.gif"
   width="250"
   alt="Hemnath R">
 
