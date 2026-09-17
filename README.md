@@ -1,6 +1,10 @@
 <div align="left">
 
-<img align="right" src="./profile.gif" width="250" hspace="15" alt="Hemnath R">
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/Hem-Hemnath/Hem-Hemnath/main/profile.gif"
+  width="250"
+  alt="Hemnath R">
 
 <h1>Hey there, I'm Hemnath R 👋</h1>
 
