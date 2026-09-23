@@ -1,230 +1,152 @@
 <div align="left">
-
 <img
   align="right"
   src="https://raw.githubusercontent.com/Hem-Hemnath/Hem-Hemnath/main/me-white.gif"
   width="250"
   alt="Hemnath R">
-
 <h1>Hey there, I'm Hemnath R 👋</h1>
-
 <a href="https://github.com/Hem-Hemnath">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=520&lines=AI+Application+Developer;AI+%26+Data+Science+Student;Building+AI-Powered+Applications;React+%7C+Python+%7C+FastAPI;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
 </a>
-
 <p>
-
 <a href="https://github.com/Hem-Hemnath">
 <img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
 </a>
-
 <a href="https://github.com/Hem-Hemnath">
 <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
 </a>
-
 <a href="https://www.linkedin.com/in/hem-hemnath/">
 <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
 </a>
-
 <a href="mailto:hemnath.8513@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EF93C4" alt="Email">
 </a>
-
 </p>
-
 <p>
-
 <a href="https://github.com/Hem-Hemnath?tab=followers">
 <img src="https://img.shields.io/github/followers/Hem-Hemnath?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
 </a>
-
 <a href="https://github.com/Hem-Hemnath?tab=repositories">
 <img src="https://img.shields.io/github/stars/Hem-Hemnath?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=Hem-Hemnath&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
-
 </p>
-
 <br clear="both">
-
 </div>
+---
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
 
 ---
 
-<table align="center" width="100%">
-<tr>
-
-<td width="65%" valign="top">
-
 ## 👨‍💻 About Me
 
-I'm **Hemnath R**, an **AI & Data Science student** focused on building practical
-and user-friendly AI applications.
+I'm **Hemnath R**, an **Artificial Intelligence & Data Science student** focused on building practical AI applications and web applications.
 
-I enjoy turning ideas into working products by combining **AI, frontend
-development, backend APIs, and modern web technologies**.
+I enjoy turning ideas into working products by combining **AI APIs, frontend development, Python, JavaScript, and modern web technologies**.
 
 ### What I Do
 
 - 🤖 AI Application Development
-- 🌐 Frontend Development
+- 🌐 Web Development
 - 🐍 Python Development
-- 🔌 API & Backend Development
-- 🧠 AI / LLM Integration
-- 🚀 Building practical AI projects
+- ⚛️ React Development
+- 🧠 AI API & Gemini Integration
+- 🚀 Building Practical AI Applications
 
+---
 
 ## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+  <img
+    src="https://skillicons.dev/icons?i=python,html,css,js"
+    alt="Python HTML CSS JavaScript"
+  />
 </p>
 
-### Frameworks & Libraries
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,fastapi,nodejs" />
+  <img
+    src="https://skillicons.dev/icons?i=supabase,firebase"
+    alt="Supabase Firebase"
+  />
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,mysql,vscode" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode"
+    alt="Git GitHub VS Code"
+  />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+### 🤖 AI Resume Screening & Skill Matching System
 
-<tr>
+AI-powered resume screening application that evaluates candidate resumes against job descriptions and generates ATS compatibility scores.
 
-<td width="50%" valign="top">
+- Resume parsing and structured candidate-data extraction
+- AI-powered skill matching and candidate analysis
+- ATS compatibility scoring
+- Gemini API integration
 
-<h3>🤖 AI Resume Screening</h3>
+**Tech:** Python · React · JavaScript · Gemini API
 
-AI-powered resume screening and skill-matching system that analyzes resumes and identifies relevant skills.
+[**View Project →**](https://github.com/Hem-Hemnath/AI_Resume_Screener)
 
-**Tech:** React · TypeScript · Express · Tailwind CSS · Gemini
+---
 
-<br>
+### ✉️ AI Email Writer
 
-<a href="https://github.com/Hem-Hemnath/AI_Resume_Screener">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
-</a>
+AI-powered email generation application that converts user requirements into context-aware email drafts.
 
-</td>
+- Built with Flask and Gemini API
+- Customized email generation
+- Prompt construction and API integration
+- End-to-end AI application workflow
 
-<td width="50%" valign="top">
+**Tech:** Python · Flask · Gemini API
 
-<h3>✉️ AI Email Writer</h3>
+[**View Project →**](https://github.com/Hem-Hemnath/AI_Email_Generator)
 
-AI-powered application that generates professional emails based on user requirements.
+---
 
-**Tech:** Python · Flask · Gemini
+### 💊 CarePilot
 
-<br>
+AI-powered health assistance application designed to help users identify medicines from images and access relevant information about their uses, warnings, side effects, and safety considerations.
 
-<a href="https://github.com/Hem-Hemnath/AI_Email_Generator">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
-</a>
+**Tech:** AI · React · Gemini Vision
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>💊 CarePilot</h3>
-
-AI caregiver assistant designed to help users understand medicines, prescriptions, and medication-related information.
-
-**Tech:** React · FastAPI · Firebase · Gemini Vision
-
-<br>
-
-<a href="https://github.com/Hem-Hemnath/Care_Pilot">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📈 Binary Candle Predictor</h3>
-
-Market-analysis project focused on studying price action and candle-based prediction concepts.
-
-**Tech:** Python · Data Analysis · Trading Logic
-
-<br>
-
-<a href="https://github.com/Hem-Hemnath/Binary_Candle_Predictor">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
-</a>
-
-</td>
-
-</tr>
-
-</table>
+[**View Project →**](https://github.com/Hem-Hemnath/Care_Pilot)
 
 ---
 
 ## 🎯 Currently Focused On
 
-<table align="center" width="100%">
+### 🤖 AI Applications
 
-<tr>
+Building practical AI-powered software that solves real user problems.
 
-<td align="center" width="25%">
+### 🌐 Web Development
 
-### 🤖
+Building responsive applications using modern frontend technologies.
 
-**AI Applications**
+### 🐍 Python
 
-Building practical AI-powered software.
+Working with Python for AI applications, automation, and backend development.
 
-</td>
+### 🚀 Project Development
 
-<td align="center" width="25%">
-
-### ⚛️
-
-**Frontend**
-
-React · TypeScript · Modern UI
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐍
-
-**Python**
-
-AI · Automation · Backend
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Projects**
-
-Turning ideas into products.
-
-</td>
-
-</tr>
-
-</table>
+Turning ideas into functional applications and continuously improving them.
 
 ---
 
@@ -234,17 +156,22 @@ Turning ideas into products.
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  width="90%"
+  alt="GitHub Contribution Snake">
 
 </picture>
 
 </div>
-
-<br>
 
 ---
 
@@ -252,9 +179,17 @@ Turning ideas into products.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hem-Hemnath&theme=github_dark" width="45%" alt="GitHub Stats">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hem-Hemnath&theme=github_dark"
+  width="48%"
+  alt="GitHub Stats"
+/>
 
-<img src="https://streak-stats.demolab.com?user=Hem-Hemnath&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak">
+<img
+  src="https://streak-stats.demolab.com?user=Hem-Hemnath&theme=github-dark&hide_border=true"
+  width="48%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -262,7 +197,11 @@ Turning ideas into products.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hem-Hemnath&theme=github_dark" width="90%" alt="GitHub Profile Details">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hem-Hemnath&theme=github_dark"
+  width="90%"
+  alt="GitHub Profile Details"
+/>
 
 </div>
 
@@ -282,10 +221,16 @@ I believe the best way to learn technology is to **build real projects and conti
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24"
+  width="100%"
+  alt="Waving Footer"
+/>
 
 <br>
 
-<sub><b>© Hemnath R</b> · AI Application Developer · AI & Data Science</sub>
+<sub>
+  <b>© Hemnath R</b> · AI Application Developer · AI & Data Science
+</sub>
 
 </div>
